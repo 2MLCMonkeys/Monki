@@ -34,10 +34,25 @@ The primary goal is to provide the user with a friendly and interactive experien
 
 
 #### Original Project Proposal
-* https://docs.google.com/document/d/1i0ltkeEtUYXOCGlxbU-NDG-7oA66x8aBkhlFn3TRW4I/edit?usp=sharing
+[Proposal](https://docs.google.com/document/d/1i0ltkeEtUYXOCGlxbU-NDG-7oA66x8aBkhlFn3TRW4I/edit?usp=sharing)
 
 #### Presentation
-* https://docs.google.com/presentation/d/1vGYqO6_V7WiWozwR26EfFtKAG5P2NbPwgvESpycw3ek/edit?usp=sharing
+[Power Point Presentation](https://docs.google.com/presentation/d/1vGYqO6_V7WiWozwR26EfFtKAG5P2NbPwgvESpycw3ek/edit?usp=sharing)
 
 #### Deployed Website
-* https://ericpowell3d.github.io/Monki/
+[Monki](https://ericpowell3d.github.io/Monki/)
+
+#### Log In Screen
+![Log In](/assets/images/screen1.png)
+
+#### Search Results
+![Search Results](/assets/images/screen2.png)
+
+#### Band Results
+![Band Results](/assets/images/screen3.png)
+
+#### Venue Selection
+![Pick A Venue](/assets/images/screen4.png)
+
+#### Google Maps Venue Locations
+![Venues](/assets/images/screen5.png)
